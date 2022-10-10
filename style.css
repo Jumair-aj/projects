@@ -1,12 +1,17 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     background-color: #23263a;
     color: white;
     font-family: 'Roboto', sans-serif;
     
+}
+a{
+    color: white;
+    text-decoration: none
 }
 
 nav{
@@ -15,9 +20,9 @@ nav{
 .logo{
     padding: 3% 10%;
     /* display: flex; */
-    width: 80px;
+    width: auto;
     margin-right: 12%;
-    /* margin: auto 0; */
+    margin: 0 auto 0;
 }
 ul{
     display: flex;
@@ -67,11 +72,11 @@ body::-webkit-scrollbar{
     font-size: 4rem;
 }
 .heading-text p{
-    margin-top: 10px;
+    margin: 20px 0 30px;
     color:rgb(99, 96, 96);
     width:50%;
     font-size: 1rem;
-    margin-bottom: 20px;
+    line-height: 20px;
     text-align: justify;
 }
 .item1{
@@ -81,6 +86,7 @@ body::-webkit-scrollbar{
 .heading-img{
     height: 300px;
     border-radius: 150px;
+    /* mix-blend-mode: multiply; */
 }
 nav{
     height: 110px;
