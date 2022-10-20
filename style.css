@@ -88,6 +88,13 @@ body::-webkit-scrollbar{
     border-radius: 150px;
     /* mix-blend-mode: multiply; */
 }
+.heading-img img{
+    width: 350px;
+    mix-blend-mode: color-burn;
+}
+
+   
+
 nav{
     height: 110px;
     background-color: #1d2035;
