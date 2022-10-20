@@ -234,3 +234,9 @@ input::placeholder{
 .contact-form{
     margin: 50px 0;
 }
+@media only screen and (max-width: 960px) {
+    
+    .heading-img{
+        display: none;
+    }
+  }
