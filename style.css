@@ -197,6 +197,9 @@ hr{
     .heading-img{
         display: none;
     }
+    .logo{
+          Width:50%;
+    }
   }
 @media only screen and (min-width: 651px ) {
     .grid-container {
