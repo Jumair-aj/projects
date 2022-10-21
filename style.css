@@ -198,10 +198,10 @@ hr{
         display: none;
     }
     .logo{
-          width:20%;
+          width:50%;
     }
     input{
-         width:49%;
+         width:100px;
 }
   }
 @media only screen and (min-width: 651px ) {
