@@ -201,7 +201,7 @@ hr{
           width:50%;
     }
     input{
-         width:100px;
+         width:80%!important;
 }
   }
 @media only screen and (min-width: 651px ) {
