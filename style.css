@@ -200,6 +200,9 @@ hr{
     .logo{
           Width:20%;
     }
+    input{
+         Width:79%;
+}
   }
 @media only screen and (min-width: 651px ) {
     .grid-container {
